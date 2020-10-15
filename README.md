@@ -7,5 +7,12 @@ The dataset was provided by the [Jet Propulsion Laboratory of California Institu
 and their physical parameters as they relate to orbital mechanics. 
 
 The focus of this project was to determine what makes an asteroid potentially dangerous to human life on Earth.
-   
+
+In order to view the project simply open the jupyter notebook present in it, everything else is explained within it.
+
+Following tasks completed in the project:
+   - data preparation and cleaning
+   - exploratory analysis and visualization
+   - asking and answering questions related to the observed data
+
 Special thanks to [Aakash N S](https://medium.com/@aakashns) and the rest of the Jovian.ml crew that made the course possible.
