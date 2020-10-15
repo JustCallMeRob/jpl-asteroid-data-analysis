@@ -8,7 +8,7 @@ and their physical parameters as they relate to orbital mechanics.
 
 The focus of this project was to determine what makes an asteroid potentially dangerous to human life on Earth.
 
-In order to view the project simply open the jupyter notebook present in it, everything else is explained within it.
+In order to view the project simply open the jupyter notebook zerotopandas-course-project.ipynb, everything else is explained within it.
 
 Following tasks completed in the project:
    - data preparation and cleaning
