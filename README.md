@@ -15,4 +15,5 @@ Following tasks completed in the project:
    - exploratory analysis and visualization
    - asking and answering questions related to the observed data
 
+This project represents the capstone project for the online course on data analysis provided by Jovian.ml.
 Special thanks to [Aakash N S](https://medium.com/@aakashns) and the rest of the Jovian.ml crew that made the course possible.
