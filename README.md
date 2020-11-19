@@ -1,4 +1,4 @@
-# Data Analysis on Asteroids  
+# Data Analysis on Asteroids
 
 In this project i will be performing data analysis on the NASA JPL Asteroid dataset to see what conclusions we can extrapolate from it, 
 with regard to the potential danger that asteroid pose to humanity.
