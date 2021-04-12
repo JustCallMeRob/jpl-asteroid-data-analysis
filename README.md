@@ -9,10 +9,5 @@ The focus of this project was to determine what makes an asteroid potentially da
 
 In order to view the project simply open the jupyter notebook zerotopandas-course-project.ipynb, everything else is explained within it.
 
-Following tasks completed in the project:
-   - data preparation and cleaning
-   - exploratory analysis and visualization
-   - asking and answering questions related to the observed data
-
-This project represents the capstone project for the online course on data analysis provided by Jovian.ml.
+This project represents the capstone project for the online course on [Data Analysis with Python](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas) provided by Jovian.ml.
 Special thanks to [Aakash N S](https://medium.com/@aakashns) and the rest of the Jovian.ml crew that made the course possible.
