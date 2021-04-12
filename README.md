@@ -8,6 +8,7 @@ and their physical parameters as they relate to orbital mechanics.
 The focus of this project was to determine what makes an asteroid potentially dangerous to human life on Earth.
 
 In order to view the project simply open the jupyter notebook zerotopandas-course-project.ipynb, everything else is explained within it.
+If however gihub refuses to render the notebook, you may view it at this [NBVIEWER LINK](https://nbviewer.jupyter.org/github/JustCallMeRob/jpl-asteroid-data-analysis/blob/main/zerotopandas-course-project.ipynb).
 
 This project represents the capstone project for the online course on [Data Analysis with Python](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas) provided by Jovian.ml.
 Special thanks to [Aakash N S](https://medium.com/@aakashns) and the rest of the Jovian.ml crew that made the course possible.
